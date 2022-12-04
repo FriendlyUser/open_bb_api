@@ -1,0 +1,3 @@
+openbb
+fastapi
+uvicorn
